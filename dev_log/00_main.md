@@ -59,7 +59,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Overall Completion
 
-~60% (Core principles defined, templates created, content improvements in progress)
+~70% (Core principles defined, templates created, content improvements complete)
 
 ### Completed Features
 
@@ -83,20 +83,19 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 * **00**: MDD Principles Definition - Core framework and structural guidelines
 * **01**: Repository Structure and Templates - Template creation and basic structure
+* **02**: Content Terminology and Documentation - Content improvements and consistency fixes
 
 ### Units In Progress
 
-#### 02. Content Terminology and Documentation
-
-**Content Improvements:**
-* Terminology updates (methodology → development guidelines)
-* Documentation consistency fixes
-* Markdown link improvements
-* User experience enhancements
-
-**Status:** Implementation in progress
+*(None currently active)*
 
 ## Planned Units
 
-* **03**: Templates and Adoption Support - Template directory and usage guidance
+### Next Steps
+
+* **03**: Templates and Adoption Support - Template directory creation and usage guidance
 * **04**: Adoption Guide and How-Tos - AI interaction best practices and troubleshooting
+
+### Future Considerations
+
+* Additional units may be added based on community feedback and real-world usage patterns
