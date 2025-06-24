@@ -21,7 +21,7 @@ project/
 ├── README.md            # Main project description
 ├── dev_log/             # Chronological development units
 │   ├── 00_mdd.md        # MDD Description and MDD version 
-│   ├── [00_main.md](00_main.md)       # Main project status and unit index
+│   ├── 00_main.md       # Main project status and unit index
 │   └── 01_first_unit.md # First Unit of your project, rename this file according to it
 └── src/                 # Source code
 ```

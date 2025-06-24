@@ -82,8 +82,8 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 ### Completed Units
 
 * **00**: MDD Principles Definition - Core framework and structural guidelines
-* **01**: Repository Structure and Templates - Template creation and basic structure
-* **02**: Content Terminology and Documentation - Content improvements and consistency fixes
+* **[01](01_repository.md)**: Repository Structure and Templates - Template creation and basic structure
+* **[02](02_content.md)**: Content Terminology and Documentation - Content improvements and consistency fixes
 
 ### Units In Progress
 
