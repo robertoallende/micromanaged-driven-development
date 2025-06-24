@@ -124,9 +124,35 @@ Review the comprehensive improvement list from analysis and create systematic pl
 ### Approved for Implementation
 - **1.1 "Methodology" → "Development Guidelines"** - Priority 1 - Approved
   - *Implementation details in [02_content_replacement.md](02_content_replacement.md)*
+- **1.2 "Micromanaged" Terminology Enhancement** - Priority 2 - Approved
+  - Add tagline: "Yes, we said micromanaged - and this time makes sense."
+  - *Implementation details in [02_content_replacement.md](02_content_replacement.md)*
+- **2.1 Repository Structure Documentation** - Priority 1 - Approved
+- **2.2 Template Reference Inconsistency** - Priority 1 - Approved  
+- **2.3 Project Status Inconsistency** - Priority 1 - Approved
+- **2.4 Duplicate Structure Explanations** - Priority 1 - Approved
+- **2.5 Missing Markdown Links for Internal References** - Priority 1 - Approved
+- **2.6 Duplicate Structure Explanations** - Priority 1 - Approved
+  - Merge content: brief summary in 00_main.md with link to detailed explanation in 00_mdd.md
+  - *Implementation details in [02_content_replacement.md](02_content_replacement.md)*
+- **4.1 README Navigation** - Priority 2 - Approved
+  - *Implementation details in [02_content_replacement.md](02_content_replacement.md)*
 
 ### Rejected Items  
-*(None yet)*
+- **3.1 Missing Quick Start Examples** - Will be handled via blog post and video content instead
+- **5.1 Troubleshooting Guide** - Rejected
+- **5.2 Team Collaboration Guidance** - Rejected  
+- **5.3 Integration with Existing Projects** - Rejected
+- **6.1 Value Proposition Clarity** - Rejected
+- **6.2 Approachability** - Rejected
+
+### Items Moved to Other Units
+- **3.2 Template Usage Guidance** - Moved to Unit 03 (Templates and Adoption Support)
+  - Better fit for dedicated templates unit after content merge is complete
+- **3.3 AI Prompting Best Practices** - Moved to Unit 04 (Adoption Guide and How-Tos)
+  - Keep 00_mdd.md clean for AI context; how-to guidance belongs in adoption materials
+- **4.2 Template Completeness** - Moved to Unit 03 (Templates and Adoption Support)
+  - Directly relevant to template directory creation and structure improvements
 
 ### Items for Discussion
 *(None yet)*
