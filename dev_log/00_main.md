@@ -1,18 +1,12 @@
 # Project Plan and Dev Log
 
-This project creates and documents the Micromanaged Driven Development (MDD) guiding principles and templates for AI-assisted software development. The development process itself follows MDD principles to demonstrate their practical application.
+This project creates and documents the Micromanaged Driven Development (MDD) development guidelines and templates for AI-assisted software development. The development process itself follows MDD principles to demonstrate their practical application.
 
 ## Structure
 
-A **unit** represents a major phase or component in the development process. Each unit may contain one or more **subunits**, which capture discrete build moments such as design decisions, iterations, or integrations.
+This project follows MDD structure principles. Each unit represents a major development phase, with optional subunits for discrete tasks following the naming convention: `<sequence>_<unitname>[_subunit].md`
 
-Each unit/subunit is recorded in a markdown file within `dev_log/`, following the naming convention:
-
-```
-<sequence>_<unitname>[_subunit<number|name>].md
-```
-
-The `subunit` part is optional. Files are ordered using numeric prefixes to allow flexible sequencing.
+For complete MDD structure guidelines and templates, see [00_mdd.md](00_mdd.md#structure).
 
 ---
 
@@ -20,13 +14,13 @@ The `subunit` part is optional. Files are ordered using numeric prefixes to allo
 
 ### What This Is
 
-A GitHub repository that defines and demonstrates Micromanaged Driven Development (MDD) - guiding principles for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
+A GitHub repository that defines and demonstrates Micromanaged Driven Development (MDD) - development guidelines for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
 
 ### Architecture
 
 **Documentation Structure:**
-- MDD principles definition (`00_mdd.md`)
-- Self-referential project plan (`00_main.md`)
+- MDD principles definition ([`00_mdd.md`](00_mdd.md))
+- Self-referential project plan ([`00_main.md`](00_main.md))
 - Chronological development units in `dev_log/`
 - Reusable templates in `templates/`
 - Example implementations in `examples/`
@@ -58,14 +52,14 @@ cd micromanaged-driven-development
 ```bash
 # Verify file organization follows MDD principles
 ls -la dev_log/
-cat dev_log/00_mdd.md
+cat dev_log/[00_mdd.md](00_mdd.md)
 ```
 
 ## Project Status
 
 ### Overall Completion
 
-~75% (Core principles defined, templates created, documentation in progress)
+~60% (Core principles defined, templates created, content improvements in progress)
 
 ### Completed Features
 
@@ -76,8 +70,8 @@ cat dev_log/00_mdd.md
 
 **Documentation:**
 - Repository README.md with clear navigation
-- Complete MDD principles guide (00_mdd.md)
-- Project plan following MDD structure (00_main.md)
+- Complete MDD principles guide ([00_mdd.md](00_mdd.md))
+- Project plan following MDD structure ([00_main.md](00_main.md))
 
 **Templates:**
 - Project plan template for new MDD projects
@@ -88,39 +82,21 @@ cat dev_log/00_mdd.md
 ### Completed Units
 
 * **00**: MDD Principles Definition - Core framework and structural guidelines
+* **01**: Repository Structure and Templates - Template creation and basic structure
 
 ### Units In Progress
 
-#### 01. Repository Structure and Templates
+#### 02. Content Terminology and Documentation
 
-**Template Creation:**
-* Project plan template for reuse
-* Unit file template with standard sections
-* Subunit template for detailed tracking
+**Content Improvements:**
+* Terminology updates (methodology → development guidelines)
+* Documentation consistency fixes
+* Markdown link improvements
+* User experience enhancements
 
-**Documentation:**
-* README.md for repository introduction
-* Usage examples and best practices
-
-**Status:** Templates complete, documentation refinement in progress
-
-### Units In Progress
-
-#### 02. Content Refinement and Examples
-
-**Documentation Polish:**
-* Refine MDD principles based on practical usage
-* Improve template clarity and completeness
-* Add troubleshooting and common patterns
-
-**Example Projects:**
-* Create sample MDD implementation
-* Document real-world usage patterns
-
-**Status:** Planned, pending completion of Unit 01
+**Status:** Implementation in progress
 
 ## Planned Units
 
-* **03**: Community Guidelines and Contribution Framework
-* **04**: Tooling and Automation Support
-* **05**: Advanced MDD Patterns and Variations
+* **03**: Templates and Adoption Support - Template directory and usage guidance
+* **04**: Adoption Guide and How-Tos - AI interaction best practices and troubleshooting

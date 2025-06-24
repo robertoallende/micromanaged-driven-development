@@ -31,13 +31,13 @@ Create reusable templates and refine repository documentation to establish MDD a
 ## Files Modified
 
 - `/README.md` - Enhanced introduction and navigation
-- `/dev_log/00_mdd.md` - Added comprehensive templates for project plan, units, and subunits
-- `/dev_log/00_main.md` - Updated to reflect template completion status
+- `/dev_log/[00_mdd.md](00_mdd.md)` - Added comprehensive templates for project plan, units, and subunits
+- `/dev_log/[00_main.md](00_main.md)` - Updated to reflect template completion status
 
 ## Status: Complete
 
 **Completed Work:**
-- ✅ Project plan template (00_main.md template in 00_mdd.md)
+- ✅ Project plan template ([00_main.md](00_main.md) template in [00_mdd.md](00_mdd.md))
 - ✅ Unit file template with standard sections
 - ✅ Subunit template for detailed tracking
 - ✅ Basic repository structure established

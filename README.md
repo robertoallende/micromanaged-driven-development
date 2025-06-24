@@ -1,6 +1,8 @@
 # Micromanaged Driven Development (MDD)
 
-A set of guiding principles for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
+A set of development guidelines for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
+
+*Yes, we said micromanaged - and this time makes sense.*
 
 ## Quick Start
 
@@ -8,7 +10,7 @@ A set of guiding principles for AI-assisted software development that emphasizes
 
 ## What is MDD?
 
-MDD is a collection of practical principles for building software with AI assistance. Instead of giving broad, vague prompts like "build me a web app," MDD focuses on breaking development into specific, well-defined tasks with systematic documentation of the entire process.
+MDD is a collection of practical development guidelines for building software with AI assistance. Instead of giving broad, vague prompts like "build me a web app," MDD focuses on breaking development into specific, well-defined tasks with systematic documentation of the entire process.
 
 Key principles include granular task breakdown, controlled AI direction, and maintaining a chronological audit trail of how your system evolved.
 
@@ -19,25 +21,32 @@ This repository demonstrates MDD by using MDD to build itself:
 ```
 ├── README.md                # This introduction file
 └── dev_log/                 # Chronological development units
-    ├── 00_mdd.md            # MDD principles and guide
+    ├── 00_mdd.md            # MDD development guidelines
     ├── 00_main.md           # This project's development plan
-    ├── 01_template_creation.md
-    └── 02_documentation_writing.md
+    ├── 01_repository.md     # Repository structure and templates unit
+    ├── 02_content.md        # Content terminology and documentation unit
+    ├── 02_content_analysis.md    # Content analysis subunit
+    ├── 02_content_planning.md    # Content planning subunit
+    ├── 02_content_replacement.md # Content implementation subunit
+    ├── 03_templates.md      # Templates and adoption support unit
+    └── 04_adoption.md       # Adoption guide and how-tos unit
 ```
 
 ## How to Use
 
 1. **Learn the Principles**: Read [`dev_log/00_mdd.md`](dev_log/00_mdd.md)
 2. **See it in Action**: Check [`dev_log/00_main.md`](dev_log/00_main.md) to see how this repository was planned using MDD
-3. **Copy the MDD Files**: Copy `dev_log/00_mdd.md` into your project's `dev_log/` directory
-4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and guidelines in `dev_log/00_mdd.md`, generate a `00_main.md` file for my project that [describe your project]"
+3. **Copy the MDD Files**: Copy [`dev_log/00_mdd.md`](dev_log/00_mdd.md) into your project's `dev_log/` directory
+4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and guidelines in [`dev_log/00_mdd.md`](dev_log/00_mdd.md), generate a [`00_main.md`](dev_log/00_main.md) file for my project that [describe your project]"
 
 ## Why MDD?
 
-- **Predictable AI Results**: Granular control leads to more reliable outputs
-- **Maintainable Code**: Systematic approach produces cleaner, understandable systems
-- **Knowledge Transfer**: Detailed logs help other developers (and future you) understand the codebase
-- **Quality Assurance**: Regular validation points catch issues early
+MDD provides several key benefits for AI-assisted development:
+
+- **🎯 Predictable AI Results**: Granular control leads to more reliable outputs
+- **🔧 Maintainable Code**: Systematic approach produces cleaner, understandable systems
+- **📚 Knowledge Transfer**: Detailed logs help other developers (and future you) understand the codebase
+- **✅ Quality Assurance**: Regular validation points catch issues early
 
 ## Contributing
 
