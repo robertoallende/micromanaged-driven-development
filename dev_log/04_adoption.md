@@ -2,11 +2,11 @@
 
 ## Objective
 
-Create comprehensive adoption guidance and how-to materials to help users effectively implement MDD in their projects, including AI interaction best practices.
+Create comprehensive adoption guidance and how-to materials to help users effectively implement MMDD in their projects, including AI interaction best practices.
 
 ## Implementation
 
-- Develop practical how-to guides for MDD adoption
+- Develop practical how-to guides for MMDD adoption
 - Create AI prompting best practices and patterns
 - Build troubleshooting and common scenarios guidance
 - Provide step-by-step adoption workflows
@@ -25,9 +25,9 @@ Create comprehensive adoption guidance and how-to materials to help users effect
 ## Items from Unit 02 Analysis
 
 ### 3.3 AI Prompting Best Practices (moved from Unit 02)
-**Objective:** Provide concrete guidance on effective AI interactions within MDD framework
+**Objective:** Provide concrete guidance on effective AI interactions within MMDD framework
 **Approach:** 
 - Create dedicated how-to guide for AI prompting patterns
-- Include MDD-specific prompt examples and scenarios
+- Include MMDD-specific prompt examples and scenarios
 - Show effective context-setting and iterative refinement techniques
-- Demonstrate how to reference MDD files in AI interactions
+- Demonstrate how to reference MMDD files in AI interactions

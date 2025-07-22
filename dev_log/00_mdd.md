@@ -1,4 +1,4 @@
-# Micromanaged Driven Development (MDD) - version 1
+# Micromanaged Driven Development (MMDD) - version 1
 
 These development guidelines use systematic documentation to control AI-assisted software development through granular task breakdown and chronological tracking.
 
@@ -20,7 +20,7 @@ The `subunit` part is optional. Files are ordered using numeric prefixes to allo
 project/
 ├── README.md            # Main project description
 ├── dev_log/             # Chronological development units
-│   ├── 00_mdd.md        # MDD Description and MDD version 
+│   ├── 00_mdd.md        # MMDD Description and MMDD version 
 │   ├── 00_main.md       # Main project status and unit index
 │   └── 01_first_unit.md # First Unit of your project, rename this file according to it
 └── src/                 # Source code

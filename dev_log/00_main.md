@@ -1,12 +1,12 @@
 # Project Plan and Dev Log
 
-This project creates and documents the Micromanaged Driven Development (MDD) development guidelines and templates for AI-assisted software development. The development process itself follows MDD principles to demonstrate their practical application.
+This project creates and documents the Micromanaged Driven Development (MMDD) development guidelines and templates for AI-assisted software development. The development process itself follows MMDD principles to demonstrate their practical application.
 
 ## Structure
 
-This project follows MDD structure principles. Each unit represents a major development phase, with optional subunits for discrete tasks following the naming convention: `<sequence>_<unitname>[_subunit].md`
+This project follows MMDD structure principles. Each unit represents a major development phase, with optional subunits for discrete tasks following the naming convention: `<sequence>_<unitname>[_subunit].md`
 
-For complete MDD structure guidelines and templates, see [00_mdd.md](00_mdd.md#structure).
+For complete MMDD structure guidelines and templates, see [00_mdd.md](00_mdd.md#structure).
 
 ---
 
@@ -14,12 +14,12 @@ For complete MDD structure guidelines and templates, see [00_mdd.md](00_mdd.md#s
 
 ### What This Is
 
-A GitHub repository that defines and demonstrates Micromanaged Driven Development (MDD) - development guidelines for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
+A GitHub repository that defines and demonstrates Micromanaged Driven Development (MMDD) - development guidelines for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
 
 ### Architecture
 
 **Documentation Structure:**
-- MDD principles definition ([`00_mdd.md`](00_mdd.md))
+- MMDD principles definition ([`00_mdd.md`](00_mdd.md))
 - Self-referential project plan ([`00_main.md`](00_main.md))
 - Chronological development units in `dev_log/`
 - Reusable templates in `templates/`
@@ -30,15 +30,15 @@ A GitHub repository that defines and demonstrates Micromanaged Driven Developmen
 - **Documentation**: Markdown files
 - **Version Control**: Git/GitHub
 - **AI Tools**: Claude for content generation and refinement
-- **Structure**: MDD organizational principles
+- **Structure**: MMDD organizational principles
 
 ### Core Requirements
 
-- Clear, actionable MDD principles
+- Clear, actionable MMDD principles
 - Self-demonstrating repository structure
 - Reusable templates for other projects
 - Comprehensive documentation of the development process
-- Version tracking of MDD evolution
+- Version tracking of MMDD evolution
 
 ### Development Environment
 
@@ -50,7 +50,7 @@ cd micromanaged-driven-development
 
 **Structure Validation:**
 ```bash
-# Verify file organization follows MDD principles
+# Verify file organization follows MMDD principles
 ls -la dev_log/
 cat dev_log/[00_mdd.md](00_mdd.md)
 ```
@@ -59,31 +59,32 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Overall Completion
 
-~70% (Core principles defined, templates created, content improvements complete)
+~75% (Core principles defined, templates created, content improvements and abbreviation update complete)
 
 ### Completed Features
 
-**MDD Framework:**
+**MMDD Framework:**
 - Core principles and structure definition
 - File organization conventions
 - Template structures for projects, units, and subunits
 
 **Documentation:**
 - Repository README.md with clear navigation
-- Complete MDD principles guide ([00_mdd.md](00_mdd.md))
-- Project plan following MDD structure ([00_main.md](00_main.md))
+- Complete MMDD principles guide ([00_mdd.md](00_mdd.md))
+- Project plan following MMDD structure ([00_main.md](00_main.md))
 
 **Templates:**
-- Project plan template for new MDD projects
+- Project plan template for new MMDD projects
 - Unit and subunit file templates
 
 ## Units Implemented
 
 ### Completed Units
 
-* **00**: MDD Principles Definition - Core framework and structural guidelines
+* **00**: MMDD Principles Definition - Core framework and structural guidelines
 * **[01](01_repository.md)**: Repository Structure and Templates - Template creation and basic structure
 * **[02](02_content.md)**: Content Terminology and Documentation - Content improvements and consistency fixes
+* **[05](05_mmdd.md)**: Abbreviation Change - MDD to MMDD - Updated all abbreviations throughout project
 
 ### Units In Progress
 

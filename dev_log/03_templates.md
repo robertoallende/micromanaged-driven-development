@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create template directory structure and adoption guidance to help new users easily start their own MDD projects.
+Create template directory structure and adoption guidance to help new users easily start their own MMDD projects.
 
 ## Implementation
 
@@ -13,7 +13,7 @@ Create template directory structure and adoption guidance to help new users easi
 ## Files Modified
 
 - New `/templates/` directory
-- Template files for new MDD projects
+- Template files for new MMDD projects
 - README.md adoption guidance updates
 
 ## Status: Planned
@@ -30,7 +30,7 @@ Create template directory structure and adoption guidance to help new users easi
 - Create `/templates/` directory with empty template files
 - Add template usage guidance to README.md or dedicated adoption section
 - Include examples of template customization for different project types
-- Provide scaling guidance (when to use full MDD vs. simplified approach)
+- Provide scaling guidance (when to use full MMDD vs. simplified approach)
 
 ### 4.2 Template Completeness (moved from Unit 02)
 **Objective:** Improve template structure and completeness for better usability
