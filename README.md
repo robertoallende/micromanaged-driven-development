@@ -1,6 +1,6 @@
 # Micromanaged Driven Development (MMDD)
 
-A set of development methodology for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
+A methodology for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
 
 *Yes, we said micromanaged - and this time makes sense.*
 
