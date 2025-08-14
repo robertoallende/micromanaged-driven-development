@@ -6,7 +6,7 @@ A set of development guidelines for AI-assisted software development that emphas
 
 ## Quick Start
 
-**Start here**: Read [`dev_log/00_mdd.md`](dev_log/00_mdd.md) for the complete MMDD principles and implementation guide.
+**Start here**: Read [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md) for the complete MMDD principles and implementation guide.
 
 ## What is MMDD?
 
@@ -21,8 +21,8 @@ This repository demonstrates MMDD by using MMDD to build itself:
 ```
 ├── README.md                # This introduction file
 └── dev_log/                 # Chronological development units
-    ├── 00_mdd.md            # MMDD development guidelines
-    ├── 00_main.md           # This project's development plan
+    ├── 00_mmdd.md           # MMDD development guidelines
+    ├── 01_main.md           # This project's development plan
     ├── 01_repository.md     # Repository structure and templates unit
     ├── 02_content.md        # Content terminology and documentation unit
     ├── 02_content_analysis.md    # Content analysis subunit
@@ -34,10 +34,10 @@ This repository demonstrates MMDD by using MMDD to build itself:
 
 ## How to Use
 
-1. **Learn the Principles**: Read [`dev_log/00_mdd.md`](dev_log/00_mdd.md)
-2. **See it in Action**: Check [`dev_log/00_main.md`](dev_log/00_main.md) to see how this repository was planned using MMDD
-3. **Copy the MMDD Files**: Copy [`dev_log/00_mdd.md`](dev_log/00_mdd.md) into your project's `dev_log/` directory
-4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and guidelines in [`dev_log/00_mdd.md`](dev_log/00_mdd.md), generate a [`00_main.md`](dev_log/00_main.md) file for my project that [describe your project]"
+1. **Learn the Principles**: Read [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md)
+2. **See it in Action**: Check [`dev_log/01_main.md`](dev_log/01_main.md) to see how this repository was planned using MMDD
+3. **Copy the MMDD Files**: Copy [00_mmdd.md](https://mmdd.dev/00_mmdd.md) into your project's `dev_log/` directory
+4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and guidelines in [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md), generate a [`01_main.md`](dev_log/01_main.md) file for my project that [describe your project]"
 
 ## Why MMDD?
 

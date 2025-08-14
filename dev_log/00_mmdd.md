@@ -1,4 +1,4 @@
-# Micromanaged Driven Development (MMDD) - version 1
+# Micromanaged Driven Development (MMDD) - version 2
 
 These development guidelines use systematic documentation to control AI-assisted software development through granular task breakdown and chronological tracking.
 
@@ -26,7 +26,7 @@ project/
 └── src/                 # Source code
 ```
 
-## [00_main.md](00_main.md) Template
+## [01_main.md](01_main.md) Template
 
 ```markdown
 # Project Plan and Dev Log
@@ -106,8 +106,8 @@ Brief project description and development approach.
 
 ## Usage
 
-1. **Setup**: Create [00_main.md](00_main.md) and dev_log/ directory
+1. **Setup**: Create [01_main.md](01_main.md) and dev_log/ directory
 2. **Plan Units**: Define 3-5 initial development phases
 3. **Work Systematically**: Complete units sequentially, document AI interactions
-4. **Track Progress**: Update [00_main.md](00_main.md) status regularly
+4. **Track Progress**: Update [01_main.md](01_main.md) status regularly
 5. **Provide Context**: Reference unit files when working with AI tools

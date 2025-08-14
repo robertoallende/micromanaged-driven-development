@@ -59,7 +59,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Overall Completion
 
-~75% (Core principles defined, templates created, content improvements and abbreviation update complete)
+~85% (Core principles defined, templates created, content improvements and abbreviation update complete, small organizational changes in progress)
 
 ### Completed Features
 
@@ -85,6 +85,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 * **[01](01_repository.md)**: Repository Structure and Templates - Template creation and basic structure
 * **[02](02_content.md)**: Content Terminology and Documentation - Content improvements and consistency fixes
 * **[05](05_mmdd.md)**: Abbreviation Change - MDD to MMDD - Updated all abbreviations throughout project
+* **[06](06_smallchanges.md)**: Small Changes - File renaming, reference updates, and project cleanup
 
 ### Units In Progress
 
@@ -94,8 +95,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Next Steps
 
-* **03**: Templates and Adoption Support - Template directory creation and usage guidance
-* **04**: Adoption Guide and How-Tos - AI interaction best practices and troubleshooting
+*(No active units currently planned)*
 
 ### Future Considerations
 
