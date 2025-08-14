@@ -35,7 +35,7 @@ This repository demonstrates MMDD by using MMDD to build itself:
 ## How to Use
 
 1. **Learn the Principles**: Read [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md)
-2. **See it in Action**: Check [`dev_log/01_main.md`](dev_log/01_main.md) to see how this repository was planned using MMDD
+2. **See it in Action**: Check [`dev_log/00_main.md`](dev_log/01_main.md) to see how this repository was planned using MMDD
 3. **Copy the MMDD Files**: Copy [00_mmdd.md](https://mmdd.dev/00_mmdd.md) into your project's `dev_log/` directory
 4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and methodology in [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md), generate a [`01_main.md`](dev_log/01_main.md) file for my project that [describe your project]"
 
