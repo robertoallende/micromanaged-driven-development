@@ -1,6 +1,6 @@
 # Micromanaged Driven Development (MMDD)
 
-A set of development guidelines for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
+A set of development methodology for AI-assisted software development that emphasizes granular control and systematic documentation of the development process.
 
 *Yes, we said micromanaged - and this time makes sense.*
 
@@ -10,7 +10,7 @@ A set of development guidelines for AI-assisted software development that emphas
 
 ## What is MMDD?
 
-MMDD is a collection of practical development guidelines for building software with AI assistance. Instead of giving broad, vague prompts like "build me a web app," MMDD focuses on breaking development into specific, well-defined tasks with systematic documentation of the entire process.
+MMDD is a methodology for building software with AI assistance. Instead of giving broad, vague prompts like "build me a web app," MMDD focuses on breaking development into specific, well-defined tasks with systematic documentation of the entire process.
 
 Key principles include granular task breakdown, controlled AI direction, and maintaining a chronological audit trail of how your system evolved.
 
@@ -21,7 +21,7 @@ This repository demonstrates MMDD by using MMDD to build itself:
 ```
 ├── README.md                # This introduction file
 └── dev_log/                 # Chronological development units
-    ├── 00_mmdd.md           # MMDD development guidelines
+    ├── 00_mmdd.md           # MMDD methodology
     ├── 01_main.md           # This project's development plan
     ├── 01_repository.md     # Repository structure and templates unit
     ├── 02_content.md        # Content terminology and documentation unit
@@ -37,7 +37,7 @@ This repository demonstrates MMDD by using MMDD to build itself:
 1. **Learn the Principles**: Read [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md)
 2. **See it in Action**: Check [`dev_log/01_main.md`](dev_log/01_main.md) to see how this repository was planned using MMDD
 3. **Copy the MMDD Files**: Copy [00_mmdd.md](https://mmdd.dev/00_mmdd.md) into your project's `dev_log/` directory
-4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and guidelines in [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md), generate a [`01_main.md`](dev_log/01_main.md) file for my project that [describe your project]"
+4. **Generate Your Plan**: Use this prompt with your AI: "Using the template and methodology in [`dev_log/00_mmdd.md`](dev_log/00_mmdd.md), generate a [`01_main.md`](dev_log/01_main.md) file for my project that [describe your project]"
 
 ## Why MMDD?
 

@@ -1,6 +1,6 @@
 # Micromanaged Driven Development (MMDD) - version 2
 
-These development guidelines use systematic documentation to control AI-assisted software development through granular task breakdown and chronological tracking.
+This development methodology uses systematic documentation to control AI-assisted software development through granular task breakdown and chronological tracking.
 
 ## Structure
 

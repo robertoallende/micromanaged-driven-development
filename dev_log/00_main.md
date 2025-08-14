@@ -1,6 +1,6 @@
 # Project Plan and Dev Log
 
-This project creates and documents the Micromanaged Driven Development (MMDD) development guidelines and templates for AI-assisted software development. The development process itself follows MMDD principles to demonstrate their practical application.
+This project creates and documents the Micromanaged Driven Development (MMDD) development methodology and templates for AI-assisted software development. The development process itself follows MMDD principles to demonstrate their practical application.
 
 ## Structure
 
@@ -14,7 +14,7 @@ For complete MMDD structure guidelines and templates, see [00_mdd.md](00_mdd.md#
 
 ### What This Is
 
-A GitHub repository that defines and demonstrates Micromanaged Driven Development (MMDD) - development guidelines for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
+A GitHub repository that defines and demonstrates Micromanaged Driven Development (MMDD) - development methodology for controlling AI-assisted software development through systematic documentation, granular task breakdown, and chronological tracking.
 
 ### Architecture
 
@@ -63,7 +63,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Completed Features
 
-**MMDD Framework:**
+**MMDD Methodology:**
 - Core principles and structure definition
 - File organization conventions
 - Template structures for projects, units, and subunits
@@ -81,7 +81,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Completed Units
 
-* **00**: MMDD Principles Definition - Core framework and structural guidelines
+* **00**: MMDD Principles Definition - Core methodology and structural principles
 * **[01](01_repository.md)**: Repository Structure and Templates - Template creation and basic structure
 * **[02](02_content.md)**: Content Terminology and Documentation - Content improvements and consistency fixes
 * **[05](05_mmdd.md)**: Abbreviation Change - MDD to MMDD - Updated all abbreviations throughout project

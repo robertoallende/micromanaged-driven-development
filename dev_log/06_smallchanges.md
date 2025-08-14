@@ -7,6 +7,7 @@ Implement small organizational improvements to the MMDD project:
 2. Update documentation references from `00_main.md` to `01_main.md` (conceptual change, file stays as `00_main.md`)
 3. Update MMDD principles to version 2
 4. Remove planned but unimplemented Units 3 and 4 from project plan
+5. Update terminology from "guidelines" and "framework" to "methodology" throughout documentation
 
 ## Implementation
 
@@ -21,6 +22,10 @@ Implement small organizational improvements to the MMDD project:
 
 **Version Update:**
 - Change version from "version 1" to "version 2" in MMDD principles
+
+**Terminology Update:**
+- Replace "guidelines" and "framework" with "methodology" throughout documentation
+- Rationale: MMDD is a methodology because methodology is the systematic, structured way of doing something — essentially, the set of principles, methods, and rules you follow to achieve a goal
 
 **Project Plan Cleanup:**
 - Remove Units 3 and 4 from planned units in `00_main.md`
@@ -44,6 +49,7 @@ Implement small organizational improvements to the MMDD project:
 - ✅ Updated all references in README.md to new filename
 - ✅ Updated references from `00_main.md` to `01_main.md` in documentation
 - ✅ Updated MMDD principles to version 2
+- ✅ Updated terminology from "guidelines/framework" to "methodology" throughout
 - ✅ Removed planned Units 3 and 4 from project plan
 - ✅ Updated project completion status to 85%
 
