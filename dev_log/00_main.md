@@ -59,7 +59,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 
 ### Overall Completion
 
-~85% (Core principles defined, templates created, content improvements and abbreviation update complete, small organizational changes in progress)
+~90% (Core principles defined, templates created, workflow guidance added, content improvements and organizational changes complete)
 
 ### Completed Features
 
@@ -67,6 +67,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 - Core principles and structure definition
 - File organization conventions
 - Template structures for projects, units, and subunits
+- 5-step workflow cycle for practical MMDD application
 
 **Documentation:**
 - Repository README.md with clear navigation
@@ -86,6 +87,7 @@ cat dev_log/[00_mdd.md](00_mdd.md)
 * **[02](02_content.md)**: Content Terminology and Documentation - Content improvements and consistency fixes
 * **[05](05_mmdd.md)**: Abbreviation Change - MDD to MMDD - Updated all abbreviations throughout project
 * **[06](06_smallchanges.md)**: Small Changes - File renaming, reference updates, and project cleanup
+* **[07](07_workflow.md)**: Workflow Documentation - Added comprehensive 5-step cycle guidance for MMDD application
 
 ### Units In Progress
 

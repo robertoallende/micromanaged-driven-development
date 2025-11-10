@@ -4,7 +4,7 @@
 
 Implement small organizational improvements to the MMDD project:
 1. Rename `00_mdd.md` to `00_mmdd.md` for better consistency with project naming
-2. Update documentation references from `00_main.md` to `01_main.md` (conceptual change, file stays as `00_main.md`)
+2. Update documentation references from `00_main.md` to `00_main.md` (conceptual change, file stays as `00_main.md`)
 3. Update MMDD principles to version 2
 4. Remove planned but unimplemented Units 3 and 4 from project plan
 5. Update terminology from "guidelines" and "framework" to "methodology" throughout documentation
@@ -16,8 +16,8 @@ Implement small organizational improvements to the MMDD project:
 - Update all references in README.md to point to new filename
 
 **Reference Updates:**
-- Update references in `00_mdd.md` (now `00_mmdd.md`) from `00_main.md` to `01_main.md`
-- Update references in README.md from `00_main.md` to `01_main.md`
+- Update references in `00_mdd.md` (now `00_mmdd.md`) from `00_main.md` to `00_main.md`
+- Update references in README.md from `00_main.md` to `00_main.md`
 - Keep actual file as `00_main.md` in dev_log directory
 
 **Version Update:**
@@ -33,7 +33,7 @@ Implement small organizational improvements to the MMDD project:
 
 ## AI Interactions
 
-"Implement these small organizational changes: rename 00_mdd.md to 00_mmdd.md, update references to 01_main.md, bump version to 2, and clean up project plan"
+"Implement these small organizational changes: rename 00_mdd.md to 00_mmdd.md, update references to 00_main.md, bump version to 2, and clean up project plan"
 
 ## Files Modified
 
@@ -47,7 +47,7 @@ Implement small organizational improvements to the MMDD project:
 **Implementation Completed:**
 - ✅ Renamed `00_mdd.md` to `00_mmdd.md`
 - ✅ Updated all references in README.md to new filename
-- ✅ Updated references from `00_main.md` to `01_main.md` in documentation
+- ✅ Updated references from `00_main.md` to `00_main.md` in documentation
 - ✅ Updated MMDD principles to version 2
 - ✅ Updated terminology from "guidelines/framework" to "methodology" throughout
 - ✅ Removed planned Units 3 and 4 from project plan
